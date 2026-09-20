@@ -1,0 +1,6 @@
+host,port,protocol,state,service
+192.0.2.10,22,tcp,open,ssh
+192.0.2.10,443,tcp,open,https
+192.0.2.11,53,udp,open|filtered,dns
+198.51.100.20,80,tcp,open,http
+192.0.2.10,3306,tcp,closed,mysql
