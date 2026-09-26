@@ -1,6 +1,8 @@
 # Skanning och enumerering
 
-
+> [!TIP]
+>
+> Glöm inte bort att du har en container som innehåller bra verktyg som `curl` , `dig`  och `nmap` . Med de verktygen kan du testa kommandona hemma i ditt eget nätverk.
 
 ## Mall för aktivitetslogg
 
