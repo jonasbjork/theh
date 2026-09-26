@@ -1,0 +1,8 @@
+Datum och tid (med tidszon):
+Mål (IP-adress och port):
+Fråga vi ville besvara:
+Kommando:
+Relevant utdata:
+Observation:
+Tolkning:
+Beslut / nästa steg:
