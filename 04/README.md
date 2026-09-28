@@ -1,6 +1,7 @@
 # Minnesanteckningar – Active Directory, Kerberos & System Hacking
 
 > [!INFO]
+> 
 > Föreläsningen spelades in med Röstmemo på min macbook och har transkriberats med MacWhisper (Whisper C++ Swedish model) och sedan sammanfattats av Claude AI Opus 5.5. *Notera att AI kan göra fel och att jag inte gått genom innehållet för att säkerställa att det är korrekt.*
 
 *(Anteckningar från dagens föreläsning. Kom ihåg: tentan bygger på presentationerna, så håll koll på portnummer och begrepp!)*
