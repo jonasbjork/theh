@@ -1,6 +1,6 @@
-# Transparens
+# Transparensrapport
 
->[!INFO]
+>[!NOTE]
 > Jag bad AI faktagranska föreläsningen. Här är resultatet.
 
 Jag har faktagranskat innehållet. Sammanfattande omdöme: lektionen är tekniskt mycket solid. Det mesta stämmer, och flera av de små felen flaggade du själv som osäkra under föreläsningen ("Windows RM", "Winsock"). Här är genomgången.
